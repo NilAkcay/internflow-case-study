@@ -101,3 +101,29 @@ This repository is a case study documenting the work carried out during my inter
 
 The original project was developed and tested using Kuika Gate.  
 For confidentiality and security reasons, company-related source code, credentials, secrets and internal technical details are not included in this repository.
+
+## Screenshots
+
+### Final Dashboard
+
+The final dashboard provides an overview of project and task status within InternFlow.
+
+![InternFlow Final Dashboard](screenshots/dashboard-final.png)
+
+### Projects Screen
+
+The Projects screen allows project records to be viewed and filtered by status, department and mentor.
+
+![InternFlow Projects Screen](screenshots/projects-screen.png)
+
+### Frontend Date Validation
+
+A frontend validation rule was added to prevent a project end date from being earlier than the start date.
+
+![Frontend Date Validation](screenshots/frontend-date-validation.png)
+
+### Automated Testing
+
+Gate Tester was used to create and run automated test scenarios for different parts of the application.
+
+![Gate Tester Results](screenshots/tester-results.png)
